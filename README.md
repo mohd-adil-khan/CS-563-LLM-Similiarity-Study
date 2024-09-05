@@ -1,7 +1,3 @@
-# semantic_similarity
-Here's a README file based on the content provided:
-
----
 
 # Comparative Analysis of Large Language Models (LLMs) Based on Embedding Similarity
 
